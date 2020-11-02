@@ -1,0 +1,50 @@
+body {
+  background-color: gray;
+}
+
+.p1 {
+  color: orange;
+  text-align: center;
+  font-size: 40px;
+  font-family: "Comic Sans MS", Arial, Impact;
+  margin: 0px;
+}
+
+.menu {
+  text-align: center;
+}
+.menu a {
+  text-decoration: none;
+  color: white;
+  background: orange;
+  border: 2px solid black;
+  border-radius: 5px;
+  font-family: "Comic Sans MS", Arial, Impact;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 20px; 
+}
+
+.menu a:hover {
+  background: lightblue;
+  border: 2px solid black;
+  transition: 2s;
+} 
+
+.error {
+  color: orange;
+  text-align: center;
+  font-size: 40px;
+  font-family: "Comic Sans MS", Arial, Impact;
+  margin: 0px;
+}
+
+.img img {
+  width: 500px;
+  height: 300px;
+  margin: 0 auto;
+  display: block;
+  border: 2px solid orange;
+}
